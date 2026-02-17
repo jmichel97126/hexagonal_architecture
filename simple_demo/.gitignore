@@ -1,0 +1,40 @@
+# Maven / Java
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Spring Boot
+*.log
+logs/
+
+# IDE - IntelliJ
+.idea/
+*.iml
+
+# IDE - VS Code (keep shared settings if needed)
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# Eclipse / STS
+.project
+.classpath
+.settings/
+.factorypath
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local environment
+.env
+.env.*
+!.env.example
