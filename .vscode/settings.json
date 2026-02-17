@@ -1,0 +1,11 @@
+{
+  "java.import.maven.enabled": true,
+  "java.project.sourcePaths": [
+    "complete_demo_project/src/main/java",
+    "complete_demo_project/src/test/java",
+    "simple_demo/src/main/java",
+    "simple_demo/src/test/java"
+  ],
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.compile.nullAnalysis.mode": "automatic"
+}
